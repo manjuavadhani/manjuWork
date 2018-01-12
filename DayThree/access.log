@@ -1,0 +1,4 @@
+2018-01-12 10:38:42,428:DEBUG:root:28168:debug msg
+2018-01-12 10:38:42,429:INFO:root:28168:Info Messgae
+2018-01-12 10:38:42,429:CRITICAL:root:28168:this is critical
+2018-01-12 10:38:42,429:WARNING:root:28168:Hi this is warning
